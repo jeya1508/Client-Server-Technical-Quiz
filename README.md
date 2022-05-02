@@ -1,1 +1,1 @@
-# Client-Server-Technical-Quiz
+This is a project on Computer Networks where two clients are involved for the Technical Quiz and the server asks questions and the client answers. The marks will be given for the client who has given the correct answer.
